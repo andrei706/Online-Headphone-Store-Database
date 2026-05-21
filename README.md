@@ -10,14 +10,14 @@ The complete documentation in **romanian** for this project can be found in the 
 ## Project Features
 
 * **3NF Database Design**: The relational schema consists of 7 entities structured according to Third Normal Form rules.
-* **Basic Web Operations**: A Python/Flask interface that allows viewing, editing, and deleting records from the database tables.
+* **Basic Web Operations**: A Python/Flask interface that allows viewing, editing, adding and deleting records from the database tables.
 
 ## Technologies Used
 
 * **Database Backend**: Oracle Database (SQL)
 * **Web Framework**: Python 3 + Flask
 * **Database Tools**: Oracle SQL Developer / SQL*Plus (for script execution and testing)
-* **Frontend UI**: HTML5, CSS3 (Custom Stylesheets), Bootstrap 5
+* **Frontend UI**: HTML, CSS, Bootstrap 
 
 ## How to Run the Project
 
