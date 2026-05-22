@@ -1,4 +1,4 @@
-# Headphone Online Store – SQL Database & Management Interface
+# Online Headphone Store – SQL Database & Management Interface
 
 This repository contains a university database project that models an online store for headphones. The project consists of an Oracle SQL database structure and a simple web interface built with Python and Flask to manage the data.
 
